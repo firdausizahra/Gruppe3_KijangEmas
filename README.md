@@ -1,9 +1,7 @@
 # Gruppe3_KijangEmas
 Predictive Modelling - Predict the price of the official gold bullion coin of Royal Mint of Malaysia and develop a trading strategy.
 Data analysis :
- 1. Data analytics (distribution, shifted and moving average, correlation, Z-score) with the data from 2018 - now
- 2. Graphical output
- 3. Discuss interesting features of the data
+ 1. Data analytics with the data from 2018 - october 2020
  
 Predictive Modelling
   1. Compare Models: Linear Regression, ARIMA, LSTM
